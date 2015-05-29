@@ -1,4 +1,6 @@
-**Mapack** is a .NET class library for basic linear algebra computations. 
+# Mapack
+
+Mapack is a .NET class library for basic linear algebra computations. 
 
 It supports the following matrix operations and properties:
 
